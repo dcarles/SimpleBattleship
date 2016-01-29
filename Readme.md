@@ -1,9 +1,11 @@
-C# Programming Test: Battleships - A console guessing game
+##C# Programming Test: Battleships - A console guessing game
 
-####Goal
-Sink all the ships on the grid
+###Goal
+Sink all the ships on the grid inputting coordinates in the console
+
 [Description and Rules on Wikipedia](https://en.wikipedia.org/wiki/Battleship_(game))
 
+###Project Description
 Very simple game of battle ships. Basically it is a console application to allow a single human player to play a one-sided game of battleships against the computer. The program created a 10x10 grid, and place a number of ships on the grid at random with the following sizes:
 
 * 1x Battleship (5 squares)
